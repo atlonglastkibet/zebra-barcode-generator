@@ -10,7 +10,7 @@ Generate sequential barcodes in Excel and convert them to ZPL format for Zebra p
 ## Usage
 
 ```bash
-cd "/home/dataopske/Desktop/FINDSTD BARCODES"
+cd "FINDSTD BARCODES"
 ```
 
 Generate barcodes:
