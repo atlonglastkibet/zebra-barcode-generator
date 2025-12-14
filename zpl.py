@@ -43,7 +43,7 @@ def xlsx_to_zpl(xlsx_file, zpl_file):
     print(f"ZPL file '{zpl_file}' has been generated from '{xlsx_file}'.")
 
 # Example usage
-xlsx_file = "/home/dataopske/Desktop/FINDSTD BARCODES/ICF_Barcodes.xlsx"  # Input Excel file
+xlsx_file = "ICF_Barcodes.xlsx"  # Input Excel file
 zpl_file = "001-350ICF.zpl"  # Output ZPL file
 
 
